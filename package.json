@@ -1,5 +1,5 @@
 {
-  "name": "pubsub-server",
+  "name": "simple-pubsub-server",
   "version": "1.0.0",
   "description": "A simple PubSub server with persistent storage and configuration settings",
   "main": "index.js",
