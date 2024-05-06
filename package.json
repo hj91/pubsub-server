@@ -1,0 +1,31 @@
+{
+  "name": "pubsub-server",
+  "version": "1.0.0",
+  "description": "A simple PubSub server with persistent storage and configuration settings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Harshad Joshi",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hj91/pubsub-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hj91/pubsub-server/issues"
+  },
+  "homepage": "https://github.com/hj91/pubsub-server",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "package.json": "^2.0.1"
+  },
+  "keywords": [
+    "PubSub",
+    "Server",
+    "Publisher",
+    "Subscriber"
+  ]
+}
